@@ -1,4 +1,5 @@
 ### Tim
+[![Gmail Badge](https://img.shields.io/badge/-liufotian@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:liufotian@gmail.com)](mailto:liufotian@gmail.com)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 
